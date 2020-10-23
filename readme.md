@@ -3,7 +3,7 @@ Loan Application Demo Repository
 
 This repository can be cloned in Red Hat Decision Manager v7.8
 
-It's related to [Red Hat Decision Manager Loan Demo](https://github.com/jbossdemocentral/rhdm7-loan-demo)
+*NOTE:* This repo is used in the following demo: [Red Hat Decision Manager Loan Demo](https://github.com/jbossdemocentral/rhdm7-loan-demo).
 
 **Testing the decisions implemented with DMN:**
 
